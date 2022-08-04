@@ -1,4 +1,5 @@
-#Movie App in React
+Movie App in React
+==================
 
 Used OMDB API to fetch movie details.\
 Adds movies to and removes them from favorites.\
